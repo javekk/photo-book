@@ -1,0 +1,25 @@
+.albColumn{
+    padding: 2px;
+}
+
+.albPhoto{
+    padding-top: 2px;
+    z-index: 1;
+}
+
+.albPhotoContainer{
+    display: block;
+}
+
+.albPhotoContainer:hover{
+    opacity: 0.8;
+}
+
+.albOver{
+    background: rgba(0,0,0,0);
+    position: absolute;
+    padding: 20px;
+    margin-top: -20%;
+    z-index: 2;
+    visibility: hidden;
+}
