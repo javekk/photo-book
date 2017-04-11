@@ -7,13 +7,13 @@ var photos = [
       title : {
           text : 'oio' ,
           is_visible : true ,
-          color : "black",
+          color : "#f1e8ca",
       } ,
       
       description : {
           text : 'A man, a plan, a canal -- Panama' ,
-          is_visible : true ,
-          color : "black",
+          is_visible : false ,
+          color : "#f1e8ca",
       } 
   } ,
     
@@ -25,13 +25,13 @@ var photos = [
       title : {
           text : 'Anna' ,
           is_visible : true ,
-          color : "black",
+          color : "#f1e8ca",
       } ,
       
       description : {
           text : 'Sex at noon taxes' ,
           is_visible : true ,
-          color : "black",
+          color : "#f1e8ca",
       } 
   } ,
     
@@ -43,13 +43,13 @@ var photos = [
       title : {
           text : 'Bob' ,
           is_visible : true ,
-          color : "black",
+          color : "#f1e8ca",
       } ,
       
       description : {
           text : 'Stella won no wallets' ,
           is_visible : true ,
-          color : "black",
+          color : "#f1e8ca",
       } 
   } ,
     
@@ -61,13 +61,13 @@ var photos = [
       title : {
           text : 'Otto' ,
           is_visible : true ,
-          color : "black",
+          color : "#f1e8ca",
       } ,
       
       description : {
           text : 'Sir, I\'m Iris!' ,
           is_visible : true ,
-          color : "black",
+          color : "#f1e8ca",
       } 
   } ,
     
@@ -79,13 +79,13 @@ var photos = [
       title : {
           text : 'Magikarp' ,
           is_visible : true ,
-          color : "black",
+          color : "#f1e8ca",
       } ,
       
       description : {
           text : 'Use splash!' ,
           is_visible : true ,
-          color : "black",
+          color : "#f1e8ca",
       } 
   } ,
   
@@ -98,13 +98,13 @@ var photos = [
       title : {
           text : 'oio' ,
           is_visible : true ,
-          color : "black",
+          color : "#f1e8ca",
       } ,
       
       description : {
           text : 'A man, a plan, a canal -- Panama' ,
           is_visible : true ,
-          color : "black",
+          color : "#f1e8ca",
       } 
   } ,
     
